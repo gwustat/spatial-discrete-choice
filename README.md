@@ -4,4 +4,5 @@ Code for my paper with Haoying Wang. The paper is titled ``Modeling Discrete Cho
 To run the included R code, one needs to compile two C files first by
 
 R CMD SHLIB compute_trWpowers.c
+
 R CMD SHLIB mvtnormQmat.c
